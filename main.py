@@ -26,11 +26,13 @@ try:
             files ={"Clear":"images/clear.png","Clouds":"images/cloud.png",
                     "Rain":"images/rain.png","Snow":"images/snow.png"}
             sky = [files[condition] for  condition in data]
-            print(sky)
-            print(data)
-            st.image(sky,width=180)
+            for file, date in zip(sky, dates):
+                st.image(file,width=100)
+                st.write(date)
 
-except:
+
+
+except KeyError:
     st.error("Please enter a valid city name.")
 
 
