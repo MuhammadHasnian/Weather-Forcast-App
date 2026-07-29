@@ -1,4 +1,4 @@
-pimport requests
+import requests
 
 API_KEY = "1f2ff825329394212da6be67359e919a"
 
