@@ -1,6 +1,7 @@
 import requests
+import os
 
-API_KEY = "1f2ff825329394212da6be67359e919a"
+API_KEY = os.getenv("API_KEY")
 
 
 def get_data(place,days,option):
