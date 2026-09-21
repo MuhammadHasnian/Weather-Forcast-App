@@ -33,6 +33,8 @@ How It Works
 
    Project Demo
    <img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/7bf8a0ba-4c1b-495b-876b-ca7321bc8d7b" />
+   <img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/a24beb4e-efae-4405-9321-ea62f2c4ffdc" />
+
 
 
    Author
