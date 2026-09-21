@@ -32,7 +32,7 @@ How It Works
 4. Frontend shows a temperature chart or sky icons.
 
    Project Demo
-   https://github.com/MuhammadHasnian/Weather-Forcast-App/blob/master/Screenshot%20from%202026-09-21%2016-53-29.png
+  https://github.com/MuhammadHasnian/Weather-Forcast-App/blob/master/Screenshot%20from%202026-09-21%2016-53-29.png?raw=true
 
    Author
    - Muhammad Hasnain
