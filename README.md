@@ -30,3 +30,8 @@ How It Works
 2. backend.py fetches forecast from OpenWeatherMap API.
 3. Data is filtered by days and option.
 4. Frontend shows a temperature chart or sky icons.
+
+   Project Demo
+
+   Author
+   Muhammad Hasnain
