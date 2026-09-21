@@ -16,7 +16,7 @@ It shows the temperature trend or sky conditions for the next 1–5 days in any 
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies
 
 - **Python**
 - **Streamlit** – UI
@@ -34,4 +34,4 @@ How It Works
    Project Demo
 
    Author
-   Muhammad Hasnain
+   - Muhammad Hasnain
